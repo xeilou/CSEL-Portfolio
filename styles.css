@@ -165,6 +165,7 @@ body {
 #my-img {
     width: auto;
     height: 100%;
+    scale: 1.4;
     object-fit: cover;
     overflow: hidden;
     mix-blend-mode: luminosity;
