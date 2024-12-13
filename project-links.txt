@@ -1,0 +1,16 @@
+ITC act 1 page: https://xeilou.github.io/ITC-Act1/
+ITC act 1 repo: https://github.com/xeilou/ITC-Act1
+
+ITC act 2 page: https://xeilou.github.io/ITC-Act2/
+ITC act 2 repo: https://github.com/xeilou/ITC-Act2
+
+ITC act 3 page: https://xeilou.github.io/ICT-Act3/
+ITC act 3 repo: https://github.com/xeilou/ITC-Act3
+
+ITC final page: https://xeilou.github.io/ITC-FinalProj/
+ITC final repo: https://github.com/xeilou/ITC-FinalProj
+
+-----------------
+
+CSEL lab 2 page: https://xeilou.github.io/CSEL-Lab2/
+CSEL lab 2 repo: https://github.com/xeilou/CSEL-Lab2
