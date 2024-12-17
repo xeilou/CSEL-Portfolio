@@ -335,7 +335,7 @@ body {
 }
 
 #term1, #term2, #term3 {
-    scroll-margin-top: 100px;
+    scroll-margin-top: 80px;
 }
 
 #project-cont {
@@ -520,10 +520,6 @@ button {
 
 .project:hover h5 {
     opacity: 0;
-}
-
-.spacer {
-    margin-bottom: -12%;
 }
 
 #contacts-cont {
