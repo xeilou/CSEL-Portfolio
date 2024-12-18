@@ -6,6 +6,7 @@
     }
 
     #header {
+        max-width: 80%;
         align-items: center;
     }
 
@@ -213,7 +214,7 @@
 
     #header h2 {
         font-size: 12px;
-        width: 100%;
+        width: 80%;
     }
 
     #header a {
