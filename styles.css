@@ -102,7 +102,7 @@ body {
     visibility: hidden;
     position: absolute;
     background-color: lightsalmon;
-    min-width: 160px;
+    min-width: 110px;
     top: 180%;
     z-index: 1;
     border-radius: 10px;
